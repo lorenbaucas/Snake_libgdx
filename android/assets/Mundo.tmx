@@ -1,0 +1,9 @@
+<!Este es es mundo que he me ha generado Tile porque para el juego de la serpiente no era suficiente un mundo normal porque con los giros y tal lo mismo
+no comia la manzana o se mataba sola, tiene ciertas dimensiones para que solo haya X caminos y puntos de generacion de manzanas. Es un mundo vacio y no tiene nada
+intente ponerle un fondo de pantalla pero no entendia muy bien como hacerlo y no hay informacion suficiente en internet, no sirve en este caso añadir un background normal/>
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.3" orientation="orthogonal" renderorder="left-up" width="25" height="25" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="13">
+ <layer id="1" name="mundo" width="35" height="25">
+  <data encoding="csv">0</data>
+ </layer>
+</map>

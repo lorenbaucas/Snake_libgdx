@@ -1,0 +1,27 @@
+
+Atlas.png
+size: 128, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+apple
+  rotate: false
+  xy: 2, 2
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 66, 73
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 65
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
